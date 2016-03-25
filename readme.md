@@ -2,12 +2,13 @@
 
 a test project for roots-mini
 
-### Setup
+## Setup
+- `git clone git@github.com:carrot/roots-mini.git`
+- `cd roots-mini`
+- `npm link`
 
-- make sure [node.js](http://nodejs.org) is at version >= `4`
-- clone down `carrot/roots-mini` and run `npm link`
-- clone this repo down and `cd` into the folder
-- run `npm install`
-- run `roots watch`
-- ???
-- get money
+## Usage
+- `cd roots-mini-test-project`
+- `npm install`
+- `rootsmini watch`
+- :boom: watch webpack compile your beautiful project
